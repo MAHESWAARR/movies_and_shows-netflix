@@ -1,6 +1,6 @@
 # movies_and_shows-netflix
 
-## Netflix Movies and Shows
+### Netflix Movies and Shows
 
 
 This repository contains a list of the most popular movies and TV shows on Netflix. The list is based on data from Netflix itself.
